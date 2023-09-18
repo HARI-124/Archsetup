@@ -26,7 +26,7 @@ Run `bluetoothctl list`
 
 # Use the mac address from above and connect it here
 
-`bluetoothctl pair MAC ADDRRESS`
+`bluetoothctl connect MAC ADDRRESS`
 
 - The device will be connected after this
 
